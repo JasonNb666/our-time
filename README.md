@@ -24,4 +24,4 @@ stargazing, and saved journeys are included.
 
 ## Saves
 
-Progress saves automatically and when you quit.
+Progress saves automatically when you quit.
